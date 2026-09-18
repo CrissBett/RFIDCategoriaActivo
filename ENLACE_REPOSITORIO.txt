@@ -1,0 +1,13 @@
+EVIDENCIA GA7-220501096-AA2-EV01
+CODIFICACION DE MODULOS DEL SOFTWARE
+
+Aprendiz: Cristian Camilo Betancur Alzate
+Ficha: 3336117
+Programa: Tecnologo en Analisis y Desarrollo de Software - ADSO
+
+Repositorio del proyecto:
+https://github.com/CrissBett/RFIDCategoriaActivo
+
+Nombre del proyecto: RFIDCategoriaActivo
+Modulo implementado: Gestion de categorias de activos
+Tecnologias: Java 21, Maven, JDBC y MySQL
