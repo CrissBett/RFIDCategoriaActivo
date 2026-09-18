@@ -1,0 +1,52 @@
+# Archivos generados por Maven
+/target/
+
+# Archivos de compilacion de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Configuracion local de NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Configuracion de otros IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# Variables de entorno y credenciales locales
+.env
+.env.*
+!.env.example
+*.properties.local
+application-local.properties
+
+# Copias de seguridad
+*.bak
+*.backup
+
+# Archivos comprimidos de entrega
+*.zip
+*.rar
+*.7z
